@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page2.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Group.qml</file>
+        <file>GroupDelegate.qml</file>
+        <file>cert/cert.qrc</file>
+        <file>cert/client.crt</file>
+        <file>cert/client.key</file>
+        <file>cert/rootCA.key</file>
+        <file>cert/rootCA.pem</file>
+        <file>cert/rootCA.srl</file>
+        <file>cert/server.crt</file>
+        <file>cert/server.key</file>
+        <file>Tt.qml</file>
+        <file>imgs/1.jpeg</file>
+        <file>imgs/2.jpeg</file>
+        <file>imgs/3.jpeg</file>
+        <file>shop.csv</file>
+        <file>EAN13/1.gif</file>
+        <file>EAN13/2.gif</file>
+    </qresource>
+</RCC>
